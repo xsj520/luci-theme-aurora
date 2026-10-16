@@ -115,7 +115,7 @@ cd openwrt-sdk-*/
 
 ```sh
 # 加入本软件包并安装 feeds（提供 luci-base）
-git clone https://github.com/eamonxg/luci-theme-aurora.git package/luci-theme-aurora
+git clone https://github.com/xsj520/luci-theme-aurora.git package/luci-theme-aurora
 ./scripts/feeds update -a
 ./scripts/feeds install -a
 
